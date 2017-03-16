@@ -1,0 +1,73 @@
+
+.content {
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+.head {
+     background:#333;
+    border-bottom:3px solid #1a1a1a;
+    height: 75px;
+    width: 100%;
+    display: table;
+    color: #fff;
+    cursor: pointer;
+}
+
+.head > * {
+    line-height: 75px;
+    display: table-cell;
+}
+
+.h2 {
+    width: 80%;
+}
+
+.icon {
+    text-align: center;
+    width: 20%;
+    transition: 1s;
+}
+
+h2 {
+    padding: 0 0 0 20px;
+}
+
+.panel {
+    color: black;
+    height: 0px;
+    overflow: hidden;
+    background:#f7f7f7;
+    transition: 1s;
+}
+i {
+    transition: 1s;
+}
+
+.panel p {
+    padding: 20px;
+}
+
+.battomsection{
+    display: table;
+    width: 100%;
+    height: 40px;
+}
+
+.battomsection > * {
+      
+    display: table-cell;
+}
+.nan {
+    width: 80%;
+}
+
+.show {
+		height: 140px;
+	}
+
+
+
+.qwe {
+    transform: rotate(180deg);
+}
